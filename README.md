@@ -1,5 +1,6 @@
 #Firebase Auth and React simple example
-<img alt="Travis (.com) branch" src="https://img.shields.io/travis/com/faeztgh/ecommerce/master?color=9d4edd&label=Firebase&logo=Firebase&logoColor=fcbf49&style=social">
+<br/>
+<img alt="faez (.com) branch" src="https://img.shields.io/faeztgh/ecommerce/master?color=9d4edd&label=Firebase&logo=Firebase&logoColor=fcbf49&style=social">
 
 # Getting Started with Create React App
 
