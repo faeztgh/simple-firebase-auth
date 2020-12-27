@@ -1,3 +1,6 @@
+#Firebase Auth and React simple example
+https://img.shields.io/travis/com/faeztgh/ecommerce/master?color=9d4edd&label=Firebase&logo=Firebase&logoColor=fcbf49&style=social
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
