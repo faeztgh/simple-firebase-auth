@@ -1,4 +1,4 @@
-#Firebase Auth and React simple example
+Firebase Auth and React simple example
 <br/>
 
 # Getting Started with Create React App
